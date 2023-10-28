@@ -47,6 +47,11 @@ nav a {
   font-weight: bold;
 }
 
+nav img {
+  max-height: 110px; /* Adjust the height as needed */
+  margin-right: 10px; /* Add margin for spacing */
+}
+
 .first-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
