@@ -10,3 +10,4 @@ Welcome to my Cool Beginners Portfolio! This webpage showcases my skills, projec
 - [License](#license)
 
 # introduction
+This webpage serves as a digital portfolio for showcasing my work as a beginner. It's designed to introduce visitors to my skills, projects, and a bit about who I am. Whether you're a potential employer, a fellow developer, or simply curious about what I do, you'll find valuable information here.
