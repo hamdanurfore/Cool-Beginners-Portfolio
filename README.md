@@ -34,6 +34,8 @@ cd Cool-Beginners-Portfolio
 
 Open the index.html file in your web browser to view the webpage.
 
+screencapture-hamdanurfore-github-io-Cool-Beginners-Portfolio-2023-10-30-18_08_44.png
+
 # Usage
 
 Feel free to explore the webpage to learn more about my skills and projects. You can click on project links to see more details, and don't hesitate to get in touch if you have any questions or suggestions.
