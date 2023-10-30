@@ -13,10 +13,10 @@ Welcome to my Cool Beginners Portfolio! This webpage showcases my skills, projec
 This webpage serves as a digital portfolio for showcasing my work as a beginner. It's designed to introduce visitors to my skills, projects, and a bit about who I am. Whether you're a potential employer, a fellow developer, or simply curious about what I do, you'll find valuable information here.
 
 # Features
-About Me: Learn more about me, my background, and what drives my passion for web development.
-My Projects: Explore a selection of projects I've worked on. You can find links to the live projects and their source code.
-Contact Information: Reach out to me through my provided contact details. I'm open to collaboration and feedback.
-Responsive Design: The webpage is designed to be fully responsive, ensuring a great user experience on various devices.
+- About Me: Learn more about me, my background, and what drives my passion for web development.
+- My Projects: Explore a selection of projects I've worked on. You can find links to the live projects and their source code.
+- Contact Information: Reach out to me through my provided contact details. I'm open to collaboration and feedback.
+- Responsive Design: The webpage is designed to be fully responsive, ensuring a great user experience on various devices.
 
 # Getting Started
 To get a copy of this project up and running on your local machine, follow these steps:
