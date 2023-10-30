@@ -194,9 +194,9 @@ body,
   margin: 0;
 }
 
-/*
-.first-grid * {
-  border: 1px solid black;
-  position: relative;
+@media screen and (max-width: 768px) {
+  main,
+  nav {
+    flex-direction: column;
+  }
 }
-*/
