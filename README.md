@@ -32,7 +32,7 @@ Navigate to the project directory:
 cd Cool-Beginners-Portfolio
 ```
 
-Open the index.html file in your web browser to [view] (screencapture-hamdanurfore-github-io-Cool-Beginners-Portfolio-2023-10-30-18_08_44.png) the webpage.
+Open the index.html file in your web browser to [view] (images/screenshot.png) the webpage.
 
 
 
