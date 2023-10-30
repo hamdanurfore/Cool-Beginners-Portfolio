@@ -32,7 +32,9 @@ Navigate to the project directory:
 cd Cool-Beginners-Portfolio
 ```
 
-Open the index.html file in your web browser to [view] (images/screenshot.png) the webpage.
+Open the index.html file in your web browser to view the webpage!
+
+![screenshot of webpage](images/screenshot.png)
 
 
 
